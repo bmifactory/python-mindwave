@@ -8,6 +8,9 @@ pip install pandas
 pip install PyBluez-0.22-cp27-none-win_amd64.whl
   (Download PyBluez-0.22-cp27‑none-win_amd64.whl)
   (http://www.lfd.uci.edu/~gohlke/pythonlibs/#pybluez)
+  
+PyEEG Reference Guide
+https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/pyeeg/PyEEG_Ref_Guide.pdf
 
 ==
 Andreas Klostermann's original description:
