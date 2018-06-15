@@ -1,3 +1,5 @@
+## For new Pandas, modified from https://github.com/akloster/python-mindwave
+
 Python Mindwave
 
 This is a library to interface with the Neurosky Mindwave headsets. It can
